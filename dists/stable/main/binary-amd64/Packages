@@ -1,0 +1,361 @@
+Package: signmykey
+Priority: optional
+Section: 
+Installed-Size: 10120
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: amd64
+Version: 0.8.1
+Filename: pool/main/s/signmykey/signmykey_0.8.1_amd64.deb
+Size: 4505166
+MD5sum: 9bd3381840bb604101062a07fbb48c1f
+SHA1: 8408c7ff45bf84ae94b4c6e3c122590547a0e006
+SHA256: 683dcd4b7e06069ea9e9f45cdd2c9b1b1af8ef98afc9cbe0b1632ba44e8e04a7
+SHA512: 28ac193590db4831d5c3c7944f626e5039c043483af8c677b4eb40296af5cd163403fa860a73d7b60474837c9989c06b50d0b68bf34f55fa63bd2ed5ea1f3628
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+
+Package: signmykey
+Priority: optional
+Section: 
+Installed-Size: 10120
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: amd64
+Version: 0.8.0
+Filename: pool/main/s/signmykey/signmykey_0.8.0_amd64.deb
+Size: 4505156
+MD5sum: 5d2db794efc287b59e4b55363e93464b
+SHA1: 7cfd3f1e8061541ee18ceb255fb51c60c7714a75
+SHA256: fce073e91440ad3dcc9e5ac6687aec3e7644b167684dbe91ef69eeb98846daba
+SHA512: 727eec27001224c5a06666ec91327eae4715787780fea89599ec4b76890d2f8b91eb30f220b992684df60dfffd8608ff129dcf6f589db588e7b5e1c1f0c2b100
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+
+Package: signmykey
+Priority: optional
+Section: 
+Installed-Size: 9840
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: amd64
+Version: 0.7.1
+Filename: pool/main/s/signmykey/signmykey_0.7.1_amd64.deb
+Size: 4354284
+MD5sum: 363c20ec450eb1237b6a18cfa4d586bd
+SHA1: 4f92a37ac15122774c514a9590284c64c72739a5
+SHA256: 05c5a4016d7a08cab9f8bbe7e2748c6cbb324a1741c5591696f7257f7e2e1b21
+SHA512: fac4caabe6f1453c37195babebbc4761bec1104fa4d04d7fc242dcff1bff815bf7c0070e3d2b865f1b32acc41f7e411183cfcb6b61f0475fb94f405763ffbc22
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+
+Package: signmykey
+Priority: optional
+Section: 
+Installed-Size: 9840
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: amd64
+Version: 0.7.0
+Filename: pool/main/s/signmykey/signmykey_0.7.0_amd64.deb
+Size: 4355102
+MD5sum: e6a7f2c163fc57918791f8313c57ecf0
+SHA1: 455875b83a74b3122b4b0920a4e52429c500bee4
+SHA256: 3b4141949278bce651ef0e8eb0e308c83c5d2b94871586132031e4eb1ce883cc
+SHA512: 4299fded9ad4e64cd47881dcd8938b9bc41179755ebf1e964dfcaa5e3571c301f44fd4ab91350a15df69b452b7b007c763e9427a0bc940febee0e2fca0b3db83
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+
+Package: signmykey
+Priority: optional
+Section: 
+Installed-Size: 9596
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: amd64
+Version: 0.6.4
+Filename: pool/main/s/signmykey/signmykey_0.6.4_amd64.deb
+Size: 4248942
+MD5sum: 1e3055e5897bfbb32fe3da65da303df5
+SHA1: 317d548e66ec4f85ef7de1a272f4375b9517a85d
+SHA256: b38029799bac8fa67eaf735414ec81c4970811ec6b87410d367bbc6c4ce0de6b
+SHA512: 11dc286a994c0ac29f772098b1d0f94b2a1ef70c6895e51da991894357a1d8f7dd79d4c1ed4c2f05e6dfcd8cd49f8f2e823b1217a714f31669f407b96defa7bf
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+
+Package: signmykey
+Priority: optional
+Section: 
+Installed-Size: 9544
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: amd64
+Version: 0.6.3
+Filename: pool/main/s/signmykey/signmykey_0.6.3_amd64.deb
+Size: 3919962
+MD5sum: 435db4448e55cb4ae28c0a15ad13e7d1
+SHA1: 4479b7d4a1812e435192fcfea5d36e0a7709a3f9
+SHA256: e48939a18d03d81f8be900a4379f3b1d5fdcd776e663e9c1f8eb76966a10cb00
+SHA512: b17372d94286da4af6008238a4157c879a5e64adb4b9c84cfaa0c6407ae8443bbd92beb2ac3d8f78e6dd86d877251d9443fe42cd77429f62bb6d6b693b2465af
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+
+Package: signmykey
+Priority: 
+Section: 
+Installed-Size: 9484
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: amd64
+Version: 0.6.2
+Filename: pool/main/s/signmykey/signmykey_0.6.2_amd64.deb
+Size: 3899150
+MD5sum: 25f8cfbfc234e11d975b53b89f8e4996
+SHA1: 90a8a48a93e40de09413a6282845dac98cbded93
+SHA256: 9ba9cffc1f0fb04fe8feb554c3ca51262aa455545f8ac7ee481b15c3ac1f7785
+SHA512: 151aa61e56d078d355550c6f75fcaa48ba0833deba227967dc866d0aec3d00bf5c9ea75f4f19890313c0d533e5537e9f2914274425bff109c5f4198ca461263e
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+Vendor: signmykey.io
+
+Package: signmykey
+Priority: 
+Section: 
+Installed-Size: 9588
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: amd64
+Version: 0.6.1
+Filename: pool/main/s/signmykey/signmykey_0.6.1_amd64.deb
+Size: 3860360
+MD5sum: 9b7864eed099363ea60d04a0dd6cb397
+SHA1: 9346466d7ed114cd1d4afc99529b6b454a7eafb0
+SHA256: ee512fd20042c81a88729b0ded7c99b17b7802941591166b22595569bc013b78
+SHA512: e60a306e415a698780616bd560315ff20a7a07692221ee45cb4f2fff110337667612451269f35e814d23ee537885113189b7e09efb7378fb210f3f662cd4fcba
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+Vendor: signmykey.io
+
+Package: signmykey
+Priority: 
+Section: 
+Installed-Size: 9548
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: amd64
+Version: 0.6.0
+Filename: pool/main/s/signmykey/signmykey_0.6.0_amd64.deb
+Size: 3846078
+MD5sum: dc03a2c4e1d16c6223e5c2994719da91
+SHA1: 907531413b14b7a25f9f5a666b44a926f4c81cba
+SHA256: 2fe720678b5e3c34e3a51510c81dbf66a4e33c7c7e69db6fc8655db13ef3997b
+SHA512: 334bf1e6a554a90d7fc65023687d9ec99eded2d3b6e0f89ac566963afb451ecf42a3a222eb3633ad7a41fbed7ef7a51417326ae94196797c9bd33f88ac7fe729
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+Vendor: signmykey.io
+
+Package: signmykey
+Priority: 
+Section: 
+Installed-Size: 9528
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: amd64
+Version: 0.5.1
+Filename: pool/main/s/signmykey/signmykey_0.5.1_amd64.deb
+Size: 3838660
+MD5sum: a3d209a3fc5c2a6df687574acd959a53
+SHA1: 0248d6b30d622b700c623fc307f35146aa0f673b
+SHA256: 7474aaddf17ab7961dd887255d3ff3f00e5887e1e0985831ef0822158859af4a
+SHA512: a5b794e66fd3069b1da9d4ba79883c6fcf5bc19e858ec578a596127bac5c2d3c341b0edf75b0f97c20da7507ff0e8875a0c53f00cc8a05c36bb97dff4eb3bd89
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+Vendor: signmykey.io
+
+Package: signmykey
+Priority: 
+Section: 
+Installed-Size: 10088
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: amd64
+Version: 0.5.0
+Filename: pool/main/s/signmykey/signmykey_0.5.0_amd64.deb
+Size: 4081708
+MD5sum: cbc7a58818bc9acbf553ea773bafbb6b
+SHA1: 49431f1db035c79ffe3e2f42ff54681742012e07
+SHA256: f038fb342bb2aa10e6d31d1539486750ae95becc5e24fb1bb2523f3448b43911
+SHA512: eb2ae5cf329309f9a62fa9d22ca468e828fc634cd3af1771bfc89100e42c66da1cac01e82d83146902ac1f632fb4c908dc62c09bde50088ea9c3d26d1d209b41
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+Vendor: signmykey.io
+
+Package: signmykey
+Priority: extra
+Section: admin
+Installed-Size: 14049
+Maintainer: contact@pablo-ruth.fr
+Architecture: amd64
+Version: 0.4.3
+Filename: pool/main/s/signmykey/signmykey_0.4.3_amd64.deb
+Size: 7375370
+MD5sum: dfe9582cf5dde4bce0ef930964ac13e1
+SHA1: 55ea76c0ebe787f852f4cf4f37ceb782d6a39498
+SHA256: b3ae336f6b9a1e1316e3bb7b30c01b1ad314046c1764cbe13e29c961855f64f5
+SHA512: 69a2562c9590bf61647702900df03cefe17a5fa47692c250a9a8babd64599a0e349eff1bb5e9dad5faa64ac669e515ef6f81ff8006a69372e16fbc3229a038ab
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+License: unknown
+Vendor: runner@fv-az121-83
+
+Package: signmykey
+Priority: extra
+Section: admin
+Installed-Size: 14688
+Maintainer: contact@pablo-ruth.fr
+Architecture: amd64
+Version: 0.4.2
+Filename: pool/main/s/signmykey/signmykey_0.4.2_amd64.deb
+Size: 7703672
+MD5sum: 1d249bdef7d7b3b9e1d1a16f7f542be5
+SHA1: 1baf45ad2444e65b10c25114e305ab9acb88bb74
+SHA256: 46f9c48bcf74c55757f8639be976c9bb0e5c28a1a8aad2382c67afdb41858a05
+SHA512: 71330c442db1ee09ee1b18e402ecb3f91878a2e841ff6bfbb13716cd9c6e221233beed425790a0783df7910237176b69ec83eb54ebbf31607ee72001cb032799
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+License: unknown
+Vendor: runner@fv-az50
+
+Package: signmykey
+Priority: extra
+Section: admin
+Installed-Size: 14726
+Maintainer: contact@pablo-ruth.fr
+Architecture: amd64
+Version: 0.4.1
+Filename: pool/main/s/signmykey/signmykey_0.4.1_amd64.deb
+Size: 7633282
+MD5sum: df4d2200feb59081968677be22d217ce
+SHA1: 9c82a9c560cf1697f8061e97cdc05411bd100ac9
+SHA256: cb6d4e8ea0a905e104d99b8914e4f7b05d35f0cb1dd25a8de27a29235d5f53dc
+SHA512: 782c952b017e5e72d9f40e2177eeea2e1177154e957e7efcf6284d774140ea32a269517f99ab37ce8ef9533875a668a1098d174ed30e98a1e417eae52b93069c
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+License: unknown
+Vendor: travis@travis-job-a4c1a071-b123-4c78-a175-469a65eb66e1
+
+Package: signmykey
+Priority: extra
+Section: admin
+Installed-Size: 14857
+Maintainer: contact@pablo-ruth.fr
+Architecture: amd64
+Version: 0.4.0
+Filename: pool/main/s/signmykey/signmykey_0.4.0_amd64.deb
+Size: 7627422
+MD5sum: a9b75a7fbbb7c11297d4fc6ceae6661f
+SHA1: 9d8f0bdb18ae830e2a65ee956003895145da10a6
+SHA256: 86f4d76c8a3cd03426021c38c2b6257a8ec78dd45bc698d328ec2460683feafb
+SHA512: 740f3d8a95f139a71d354ad91019a488a1c06e316d9e51bb354f0ea97b180aa316e035048d93afadfd3670ae4266c7c9ec2d027d43688f7633c8e5ea5fcb8228
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+License: unknown
+Vendor: travis@travis-job-4c9e6269-4a11-4b0a-9639-cc80cfc38060
+
+Package: signmykey
+Priority: extra
+Section: admin
+Installed-Size: 14822
+Maintainer: contact@pablo-ruth.fr
+Architecture: amd64
+Version: 0.3.1
+Filename: pool/main/s/signmykey/signmykey_0.3.1_amd64.deb
+Size: 7608244
+MD5sum: 93d44df5033bf48f4192b070347fbe07
+SHA1: 87ba3d833451e6af4bba7213bcd8765515eaf7dd
+SHA256: e4f9fbef7e28333996d7739fc9eb98cae427e87f5c9461b08c1eb281896bdd3a
+SHA512: b6a68db68383bdeff033863825739f35fe33c9452a233247fd600b61a6b50564da6a54ecb2173f9926255c287ff36231d625b0fe434bbe929800acc0a85903a7
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+License: unknown
+Vendor: travis@travis-job-bd4f322b-ca07-4294-b7ea-25a1cffcd80b
+
+Package: signmykey
+Priority: extra
+Section: admin
+Installed-Size: 14801
+Maintainer: contact@pablo-ruth.fr
+Architecture: amd64
+Version: 0.3.0
+Filename: pool/main/s/signmykey/signmykey_0.3.0_amd64.deb
+Size: 7594962
+MD5sum: 76698384958149ce54f033487ffcf04e
+SHA1: a53a03153c7820eb4d14a10923c5e5d9a4a42b12
+SHA256: 661a5f4b24d2d0a78aa90c646c3ba6967f47aa6d12d3198b1946a51890e042e5
+SHA512: d500c5c4b557d1293b3cb286a54a43aea30af9bbd035e609fd4726e109340dd450bf3f4751fee8b2a1e2d6ab36f5c5a18249bb910a21d3db1a859713af41ec4d
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+License: unknown
+Vendor: travis@travis-job-3cc830b9-d174-4c53-bfbe-42f6839e90ae
+
+Package: signmykey
+Priority: extra
+Section: admin
+Installed-Size: 13475
+Maintainer: contact@pablo-ruth.fr
+Architecture: amd64
+Version: 0.2.5
+Filename: pool/main/s/signmykey/signmykey_0.2.5_amd64.deb
+Size: 6771526
+MD5sum: 168970ba8d4cd74fd758df8ad2ed9a71
+SHA1: 5f1e1508b33208aa08129ec8f2a8e93847f75589
+SHA256: 35c2681a49b0cefa026ec83119eb8a43a4a5b106da91f21d9aecb7252778e945
+SHA512: cf891193974e69ab55d3a9fed37f553c5195f2c7f621c02cf43065b956cacf5becfc10afdbc29c3710c65ee7c51e9a3952e2fd6f0c64aad85c59f83d715de600
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+License: unknown
+Vendor: travis@travis-job-40429681-a623-4335-8b9e-e14c4fbf6de1
+
+Package: signmykey
+Priority: extra
+Section: admin
+Installed-Size: 13446
+Maintainer: contact@pablo-ruth.fr
+Architecture: amd64
+Version: 0.2.4
+Filename: pool/main/s/signmykey/signmykey_0.2.4_amd64.deb
+Size: 6755730
+MD5sum: 1d92dd6918239e856bc48bac7e314134
+SHA1: d46dc8f610652f12bc437cdd5f06cef5830b915b
+SHA256: 5f488f275687c938af4a8cc9be739ed4de9b0270f265696a66145c4cd14bf854
+SHA512: afc195e6202c8dcace4b3fdd319fdddacaab2f1af94afe4ba7270e645a26949db958427bf166632d82f2f592d7ba7c4f6a8263b902bdc0450c6f56b81935e19c
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+License: unknown
+Vendor: travis@travis-job-049dd6fd-1d9e-4047-b9e7-f638ed20e6a3
+
+Package: signmykey
+Priority: extra
+Section: admin
+Installed-Size: 13446
+Maintainer: contact@pablo-ruth.fr
+Architecture: amd64
+Version: 0.2.3
+Filename: pool/main/s/signmykey/signmykey_0.2.3_amd64.deb
+Size: 6755732
+MD5sum: 7a2342389977a8c29bfb9ccf72c5c55a
+SHA1: 872b5470a3860a03a456ca06f4cd860b101f5154
+SHA256: 2d98d433a91fc4afc6339e51b7fe55dd9fbe08b336dd106e5027c1931f73e590
+SHA512: 09bb0f74166b6964b6de9a263dcbb2744443e0b7a5f3e81ba5c803d2fca4c5fac90ea780ee3d8fee85b82c52c7e683c02cc12873fbe0155e66997219f3fcc158
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+License: unknown
+Vendor: travis@travis-job-cc89cc54-441a-46f3-b618-92a027a6487d
+
+Package: signmykey
+Priority: extra
+Section: admin
+Installed-Size: 13446
+Maintainer: contact@pablo-ruth.fr
+Architecture: amd64
+Version: 0.2.2
+Filename: pool/main/s/signmykey/signmykey_0.2.2_amd64.deb
+Size: 6755724
+MD5sum: cc71a2292b29233ead1dbe937099d632
+SHA1: 38afdef2554252c4310fe037ea77d44504543661
+SHA256: ba13985a4277f0816f5de110e66ba5ebb55f0208f02be39b258d96688c549ed8
+SHA512: 937fc87fa319ccb5d23bf6696a762e664213e8193d17bef4277ec57992e88b465a9f9d17a9c1404d64e00d293cb1ed2037467f3f9fa55395ec4d7e76f433ff12
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+License: unknown
+Vendor: travis@travis-job-569090f3-334a-4a36-96b9-d9d598bdd3fb
+
