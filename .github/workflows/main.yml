@@ -1,0 +1,41 @@
+name: Build and Deploy APT Repository
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Install Aptly
+        run: |
+          wget https://github.com/aptly-dev/aptly/releases/download/v1.5.0/aptly_1.5.0_linux_amd64.tar.gz
+          tar xzf aptly_1.5.0_linux_amd64.tar.gz
+          mv aptly_1.5.0_linux_amd64/aptly aptly
+
+      - name: Import GPG key
+        id: import_gpg
+        uses: crazy-max/ghaction-import-gpg@v3
+        with:
+          gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
+
+      - name: Setup APT Repository
+        run: |
+          mkdir -p apt-repository
+          ./aptly repo create -component=main -distribution=stable signmykey
+          ./aptly repo add signmykey .
+          ./aptly publish repo -gpg-key="${{ steps.import_gpg.outputs.keyid }}" signmykey signmykey
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: /home/runner/.aptly/public/signmykey/
+          publish_branch: gh-pages
