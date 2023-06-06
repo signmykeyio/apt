@@ -1,6 +1,22 @@
 Package: signmykey
 Priority: optional
 Section: 
+Installed-Size: 9656
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: i386
+Version: 0.8.2
+Filename: pool/main/s/signmykey/signmykey_0.8.2_386.deb
+Size: 4266652
+MD5sum: b0090317be833689e6e8ddfe46a1223a
+SHA1: 0163f073950eab715191eebe4fae4cc655b5e50e
+SHA256: 791d6818a93d74f48b676610b9fd0f0f0914b94611c14ea0a1ec6af3cae19112
+SHA512: b1ad6ec5008872166305fc9f7f0711687e01a28e22e8a9aec82e445f0ed2a897c3aae21f2d324708b88d6c903931e8a97f04a573aca924c88ef9e8585e77c72e
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+
+Package: signmykey
+Priority: optional
+Section: 
 Installed-Size: 9668
 Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
 Architecture: i386

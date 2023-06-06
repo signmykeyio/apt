@@ -4,6 +4,22 @@ Section:
 Installed-Size: 9472
 Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
 Architecture: arm64
+Version: 0.8.2
+Filename: pool/main/s/signmykey/signmykey_0.8.2_arm64.deb
+Size: 4067492
+MD5sum: d71dae86dffae3774ed752cb9ba67540
+SHA1: 644c61da7444783265d7fed9443fc46a439eff5c
+SHA256: ea847ad9a390323a15d95c278a47f6ed5aaaed05f4ee62454ad9d9c3597a922d
+SHA512: c69a83ca049d1242ffda1ea7d397d5fbbc017c21f946b31b82e79d8ec6285869461149308dce80451b47ec6d07a3248c576eb5b53a549350ec70c91a5d4ad8b0
+Description: An automated SSH Certificate Authority
+Homepage: https://github.com/signmykeyio/signmykey
+
+Package: signmykey
+Priority: optional
+Section: 
+Installed-Size: 9472
+Maintainer: Pablo RUTH <contact@pablo-ruth.fr>
+Architecture: arm64
 Version: 0.8.1
 Filename: pool/main/s/signmykey/signmykey_0.8.1_arm64.deb
 Size: 4077838
