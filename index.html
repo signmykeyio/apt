@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Signmykey APT repository</title>
+</head>
+<body>
+    <h1>Signmykey APT repository</h1>
+    <ul>
+        <li>Ensure you have curl and gpg</li>
+    </ul>
+    <pre><code>sudo apt update && sudo apt install ca-certificates curl gnupg</code></pre>
+    <ul>
+        <li>Add Signmykey GPG to your APT truststore</li>
+    </ul>
+    <pre><code>curl https://gpg.signmykey.io/signmykey.pub | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/signmykey.gpg</code></pre>
+    <ul>
+        <li>Add Signmykey repository</li>
+    </ul>
+    <pre><code>echo 'deb [signed-by=/etc/apt/trusted.gpg.d/signmykey.gpg] https://apt.signmykey.io stable main' | sudo tee /etc/apt/sources.list.d/signmykey.list</code></pre>
+    <ul>
+        <li>Install Signmykey package</li>
+    </ul>
+    <pre><code>sudo apt update && sudo apt install signmykey</code></pre>
+</body>
+</html>
