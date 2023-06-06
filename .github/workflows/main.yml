@@ -32,6 +32,7 @@ jobs:
           ./aptly repo create -component=main -distribution=stable signmykey
           ./aptly repo add signmykey .
           ./aptly publish repo -gpg-key="${{ steps.import_gpg.outputs.keyid }}" signmykey signmykey
+          cp index.html CNAME /home/runner/.aptly/public/signmykey/
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
